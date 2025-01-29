@@ -107,6 +107,8 @@ def test_forms_elements(driver):
     #     print("Checkbox is already selected.")
     time.sleep(9)
 
+nk
+
 
 
 
